@@ -1,10 +1,14 @@
-# Jonathan Medeiros 👋
+# Jonathan Medeiros 
 
 <!--
 **jonhnmedeiros/jonhnmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Gmail Badge](https://img.shields.io/badge/-jonathan.info@gmail.com-blueviolet?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jonathan.info@gmail.com)](mailto:jonathan.info@gmail.com)
 -->
+
+Hi, i'm John, let's connect 👋
+
+🌱 Currently learning JavaScript, ReactJS
 
 
 [![Website Badge](https://img.shields.io/badge/-jonhn.dev-blueviolet?style=for-the-badge&labelColor=blueviolet&logo=html5&logoColor=white&link=https://jonhn.dev)](https://jonhn.dev)
