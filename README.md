@@ -7,7 +7,8 @@
 
 ## Hi there I'm Jonathan Medeiros 👋
 
-🌱 Learning JavaScript, ReactJS
+🌱 Constantly Learning 
+Dev JavaScript, React, Angular
 
 
 📫 Reach me:
