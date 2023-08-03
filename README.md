@@ -5,10 +5,11 @@
 
 -->
 
-## Hi there I'm Jonathan Medeiros 👋
+## Hi there I'm Jonathan Felipe Medeiros 👋
 
-🌱 Constantly Learning 
-Dev JavaScript, React, Angular
+💻 Front-end Web Developer | Angular | React | JavaScript | Node.js | HTML | CSS.
+🌱 Constantly Learning.
+📚 Studying HTML, CSS, JavaScript, React, Angular.
 
 
 📫 Reach me:
