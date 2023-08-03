@@ -8,8 +8,11 @@
 ## Hi there I'm Jonathan Felipe Medeiros 👋
 
 💻 Front-end Web Developer | Angular | React | JavaScript | Node.js | HTML | CSS.
+
 🌱 Constantly Learning.
+
 📚 Studying HTML, CSS, JavaScript, React, Angular.
+
 
 
 📫 Reach me:
