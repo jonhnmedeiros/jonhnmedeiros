@@ -17,6 +17,6 @@
 
 📫 Reach me:
 
-[![Website Badge](https://img.shields.io/badge/-jonhn.dev-blueviolet?style=for-the-badge&labelColor=blueviolet&logo=html5&logoColor=white&link=https://jonhn.dev)](https://jonhn.dev)
+[![Website Badge](https://img.shields.io/badge/-jonathanmedeiros.dev-blueviolet?style=for-the-badge&labelColor=blueviolet&logo=html5&logoColor=white&link=https://jonathanmedeiros.dev)](https://jonathanmedeiros.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Medeiros-blueviolet?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanmedeiros/)](https://www.linkedin.com/in/jonathanmedeiros/)
 [![Twitter Badge](https://img.shields.io/badge/-@jonhnmedeiros-blueviolet?style=for-the-badge&labelColor=blueviolet&logo=twitter&logoColor=white&link=https://twitter.com/jonhnmedeiros)](https://twitter.com/jonhnmedeiros)
