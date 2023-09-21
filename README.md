@@ -37,10 +37,9 @@ With over 10 years of professional experience, i have dedicated the past 3 years
 
 #### Status
   
-<div align="center" style="display: flex">
-  <img align="center" height="172px" src="https://github-readme-stats-iota-plum-73.vercel.app/api?username=jonhnmedeiros&show_icons=true&theme=synthwave" alt="jonhnmedeiros stats" />
-  <img height="220px" alt=gitstats src="https://github-readme-stats.vercel.app/api/wakatime?username=jonhnmedeiros&hide_progress=true&theme=dracula"/>
-  &ensp;&ensp;&ensp;
-  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnmedeiros&langs_count=8&layout=compact&theme=dracula"/>
+<div align="left">
+  <img align="left" height="172px" alt="jonhnmedeiros stats" src="https://github-readme-stats-iota-plum-73.vercel.app/api?username=jonhnmedeiros&show_icons=true&theme=dracula"/>
+  <img align="left" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnmedeiros&langs_count=8&layout=compact&theme=dracula"/>
+  <img align="left" height="172px" alt=gitstats src="https://github-readme-stats.vercel.app/api/wakatime?username=jonhnmedeiros&hide_progress=true&theme=dracula"/>
 </div>
 
