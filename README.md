@@ -5,18 +5,42 @@
 
 -->
 
-## Hi there I'm Jonathan Felipe Medeiros 👋
+### Hi there! I'm Jonathan 👋
+I'm a Front-end software engineer.
 
-💻 Front-end Web Developer | Angular | React | JavaScript | Node.js | HTML | CSS.
+#### About me
+With over 10 years of professional experience, i have dedicated the past 3 years to development projects and served as programmmer.
 
-🌱 Constantly Learning.
+#### Mainly current techs and tools
 
-📚 Studying HTML, CSS, JavaScript, React, Angular.
+- 💻 Front-end web with Angular / React / Next.js
+- 🔧 JavaScript 
+- 🛠 TypeScript 
+- 📥 Git / GitHub 
+- 📟 Visual Studio Code 
+- 🖌 Figma 
 
+#### How to reach me
+<div>
+  <a href="https://www.linkedin.com/in/jonathanmedeiros">
+    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
+  </a>
+  
+  <a href="mailto:jonathanmedeirosdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
+  </a>
 
+  <a href="https://jonathanmedeiros.dev">
+    <img src="https://img.shields.io/badge/-Portifolio-blueviolet?style=flat&labelColor=blueviolet&logo=html5&logoColor=white" />
+  </a>
+</div>
 
-📫 Reach me:
+#### Status
+  
+<div align="center" style="display: flex">
+  <img align="center" height="172px" src="https://github-readme-stats-iota-plum-73.vercel.app/api?username=jonhnmedeiros&show_icons=true&theme=synthwave" alt="jonhnmedeiros stats" />
+  <img height="220px" alt=gitstats src="https://github-readme-stats.vercel.app/api/wakatime?username=jonhnmedeiros&hide_progress=true&theme=dracula"/>
+  &ensp;&ensp;&ensp;
+  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhnmedeiros&langs_count=8&layout=compact&theme=dracula"/>
+</div>
 
-[![Website Badge](https://img.shields.io/badge/-jonathanmedeiros.dev-blueviolet?style=for-the-badge&labelColor=blueviolet&logo=html5&logoColor=white&link=https://jonathanmedeiros.dev)](https://jonathanmedeiros.dev)
-[![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Medeiros-blueviolet?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanmedeiros/)](https://www.linkedin.com/in/jonathanmedeiros/)
-[![Twitter Badge](https://img.shields.io/badge/-@jonhnmedeiros-blueviolet?style=for-the-badge&labelColor=blueviolet&logo=twitter&logoColor=white&link=https://twitter.com/jonhnmedeiros)](https://twitter.com/jonhnmedeiros)
