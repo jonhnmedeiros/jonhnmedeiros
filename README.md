@@ -6,10 +6,10 @@
 -->
 
 ### Hi there! I'm Jonathan 👋
-I'm a Front-end software engineer.
+I'm a Front End Developer.
 
 #### About me
-With over 10 years of professional experience, i have dedicated the past 3 years to development projects and served as programmmer.
+With over 10 years of professional experience in IT, i have dedicated the past 3-4 years to projects in development area and working with programming.
 
 #### Mainly current techs and tools
 
