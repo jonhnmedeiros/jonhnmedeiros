@@ -6,18 +6,17 @@
 -->
 
 ### Hi there! I'm Jonathan 👋
-I'm a Front End Developer.
+I'm a Software Engineer & Frontend Specialist
 
 #### About me
-With over 10 years of professional experience in IT, i have dedicated the past 3-4 years to projects in development area and working with programming.
+Specializing in high-performance frontend ecosystems (Vue, Nuxt, Svelte) and currently expanding into React/Next.js. Proven experience in national-scale platforms and asynchronous, remote-first environments.
 
 #### Mainly current techs and tools
 
-- 💻 Front-end web with Angular / React / Next.js
+- 💻 Front-end web with Angular / React / Vue / Nuxt
 - 🔧 JavaScript 
 - 🛠 TypeScript 
 - 📥 Git / GitHub 
-- 📟 Visual Studio Code 
 - 🖌 Figma 
 
 #### How to reach me
@@ -30,7 +29,7 @@ With over 10 years of professional experience in IT, i have dedicated the past 3
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
 
-  <a href="https://jonathanmedeiros.dev">
+  <a href="https://jonhn.me">
     <img src="https://img.shields.io/badge/-Portifolio-blueviolet?style=flat&labelColor=blueviolet&logo=html5&logoColor=white" />
   </a>
 </div>
